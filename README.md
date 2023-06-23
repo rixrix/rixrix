@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there 👋, I'm Richard Sentino
 
-<!--
-**rixrix/rixrix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/sentino)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](http://read.mindginative.com/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/mindginative)
 
-Here are some ideas to get you started:
+I’m a dabbler so sometimes I mess around with technologies like: Docker, Terraform, AWS Web Services, Linux configuration, CI, Bash scripting, Go, Rust, networking, contracting - I’ve dabbled enough to understand a full stack system.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My curiosity in various areas of tech stack on/off my day job means I can to talk to and communicate effectively with people in other areas.
+
+### Misc. stuff
+
+- I'm currently learning [Rust](https://www.rust-lang.org/) language
+- I'm currently working for a Web3 / Blockchain company
+- Joined Github in 2008
+- Has worked at 5x startup companies
