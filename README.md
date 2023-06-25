@@ -12,5 +12,6 @@ My curiosity in various areas of tech stack on/off my day job means I can to tal
 
 - I'm currently learning [Rust](https://www.rust-lang.org/) language
 - I'm currently working for a Web3 / Blockchain company
-- Joined Github in 2008
-- Has worked at 5x startup companies
+- Contributed to some opensource projects
+- Worked at 5x startup companies
+- Always learning!
