@@ -10,8 +10,8 @@ My curiosity in various areas of tech stack on/off my day job means I can to tal
 
 ### Misc. stuff
 
-- I'm currently learning [Rust](https://www.rust-lang.org/) language
-- I'm currently working for a Web3 / Blockchain company
+- I'm currently learning [Rust](https://www.rust-lang.org/) language, see [Rust Daily Snippets](https://github.com/rixrix/rust-daily-snippets), [Fla1 Network](https://github.com/rixrix/flat1-network-node), [Inkiobi](https://github.com/rixrix/inkiobi)
+- I'm presently employed at a Web3/Blockchain company
 - Contributed to some opensource projects
 - Worked at 5x startup companies
 - Always learning!
