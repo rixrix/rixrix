@@ -1,16 +1,98 @@
-### Hi there 👋, I'm Richard Sentino
+# Hi, I’m Richard Sentino 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/sentino)
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](http://read.mindginative.com/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/mindginative)
+**Web 1.0–3.0 survivor · hands-on AI + Rust 🦀 · building [AgenticFlowX](https://agenticflowx.github.io)**
 
-I’m a dabbler so sometimes I mess around with technologies like: Docker, Terraform, AWS Web Services, Linux configuration, CI, Bash scripting, Go, Rust, networking, contracting - I’ve dabbled enough to understand a full stack system.
+I’m a software engineer and lifelong tinkerer based in Auckland, New Zealand.
 
-My curiosity in various areas of tech stack on/off my day job means I can to talk to and communicate effectively with people in other areas.
+After more than 20 years across startups, full-stack systems, cloud platforms, and connected products, I’m increasingly focused on Rust, native applications, developer tooling, programming languages, and software that interacts with real hardware.
 
-### Misc. stuff
+Everything I build from here will be built with **AgenticFlowX**.
 
-- I'm currently learning [Rust](https://www.rust-lang.org/) language, see [Rust Daily Snippets](https://github.com/rixrix/rust-daily-snippets), [Fla1 Network](https://github.com/rixrix/flat1-network-node), [Inkiobi](https://github.com/rixrix/inkiobi)
-- Contributed to some opensource projects
-- Worked at 5x startup companies
-- Always learning!
+## AgenticFlowX
+
+[AgenticFlowX](https://agenticflowx.github.io) is my open-source workflow for building software with AI coding agents.
+
+It begins with ordinary chat and adds structure when the work needs it: exploration, specifications, design, tasks, approvals, traceability, and persistent project context.
+
+The goal is simple: make AI-assisted development easier to follow, review, resume, and trust—without moving the work into a separate project-management system.
+
+- [AgenticFlowX for VS Code](https://github.com/AgenticFlowX/agenticflowx)
+- [AFX CLI and skill packs](https://github.com/AgenticFlowX/afx)
+- [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=AgenticFlowX.agenticflowx)
+- [Open VSX](https://open-vsx.org/extension/agenticflowx/agenticflowx)
+- [r/agenticflowx](https://www.reddit.com/r/agenticflowx)
+
+## Selected work
+
+### Desktop Nano Cortex
+
+[Desktop Nano Cortex](https://github.com/rixrix/deskop-nano-cortex) is an open-source, cross-platform desktop companion for the Neural DSP Nano Cortex.
+
+It moves device communication into a native Rust backend behind a Tauri application, combining:
+
+- Rust and Tauri
+- React and TypeScript
+- USB MIDI control
+- Bluetooth device state
+- Cross-platform desktop packaging
+- Hardware diagnostics and testing
+- Traceable specifications built with AgenticFlowX
+
+### TrafLang
+
+[TrafLang](https://github.com/rixrix/traflang) is a playful programming language built around driving metaphors.
+
+Programs use keywords such as `StartEngine`, `Drive`, `CheckMirror`, `Remember`, and `ParkCar`, then transpile to JavaScript for immediate execution.
+
+I built the language and its browser-based development environment, including:
+
+- A lexer and tokenizer
+- Parser and abstract syntax tree
+- JavaScript code generator
+- Monaco-based code editor
+- Real-time transpilation and execution
+- Syntax highlighting and examples
+- More than 40 driving-themed keywords
+- Automated language and transpiler tests
+
+TrafLang was an experiment in making programming syntax approachable, visual, and fun—and in seeing how far AI-assisted development could take a complete language and IDE.
+
+## My Rust timeline
+
+Rust isn’t entirely new territory for me.
+
+In May 2015, I wrote [rust-nodejs-ffi](https://github.com/rixrix/rust-nodejs-ffi), my first Rust program, to explore interoperability between Rust and Node.js.
+
+I later experimented with Rust through projects such as:
+
+- [Rust Daily Snippets](https://github.com/rixrix/rust-daily-snippets)
+- [flat1-network-node](https://github.com/rixrix/flat1-network-node)
+- [blockchain-from-scratch](https://github.com/rixrix/blockchain-from-scratch)
+- [rust-rag-lancedb-indexer](https://github.com/rixrix/rust-rag-lancedb-indexer)
+- [Desktop Nano Cortex](https://github.com/rixrix/deskop-nano-cortex)
+
+Now I’m returning to Rust with more ambitious native, systems-oriented, and connected-software projects.
+
+## What I’m interested in
+
+- Rust for native, systems-oriented, and connected software
+- AI coding agents with clear intent and traceability
+- Programming languages and developer environments
+- Native applications that communicate with real hardware
+- Audio software, MIDI, and device control
+- Cloud systems and infrastructure as code
+- Open-source projects with honest documentation
+
+## How I build
+
+I like understanding the whole system: product intent, architecture, application code, infrastructure, deployment, testing, and user experience.
+
+AgenticFlowX grew out of that mindset. Every new project is an opportunity to improve both the thing being built and the workflow used to build it.
+
+**Still learning. Still building. Now doing more of it in Rust.**
+
+## Elsewhere
+
+- [LinkedIn](https://www.linkedin.com/in/sentino/)
+- [AgenticFlowX](https://agenticflowx.github.io)
+- [GitHub](https://github.com/rixrix)
