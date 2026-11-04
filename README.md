@@ -24,6 +24,12 @@ The goal is simple: make AI-assisted development easier to follow, review, resum
 
 ## Selected work
 
+### Oxidal
+
+[Oxidal](https://github.com/oxidalhq/oxidal) is an open-source guitar and bass processor I’m building for Raspberry Pi 5. It pairs a Rust backend with a browser interface and a custom Linux image with its own Wi-Fi hotspot, so I can control it from a phone or tablet at the rig.
+
+It uses Neural Amp Modeler (NAM) captures for amp and cabinet tones, imports compatible TONE3000 presets, and hosts selected LV2 effects. It’s in active development.
+
 ### Desktop Nano Cortex
 
 [Desktop Nano Cortex](https://github.com/rixrix/deskop-nano-cortex) is an open-source, cross-platform desktop companion for the Neural DSP Nano Cortex.
