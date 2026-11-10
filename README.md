@@ -4,6 +4,8 @@
 
 I’m a software engineer and lifelong tinkerer based in Auckland, New Zealand.
 
+I write about side projects, Rust, AI-assisted coding, and things I learn along the way on [Software Notes](https://rixrix.github.io/).
+
 After more than 20 years across startups, full-stack systems, cloud platforms, and connected products, I’m increasingly focused on Rust, native applications, developer tooling, programming languages, and software that interacts with real hardware.
 
 Everything I build from here will be built with **AgenticFlowX**.
